@@ -51,6 +51,10 @@ public class MyProject {
 
 ## 1.2. SQLite
 
+You can get the jar file from here:
+
+https://github.com/xerial/sqlite-jdbc
+
 ```java
     import java.sql.Connection;
     import java.sql.DriverManager;
